@@ -1,5 +1,8 @@
 package com.qimh;
 
+/**
+ * author qimh
+ */
 public class Police {
     private Integer id;
     private String name;
