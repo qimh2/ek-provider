@@ -2,6 +2,7 @@ package com.qimh;
 
 /**
  * author qimh
+ * dev
  */
 public class Police {
     private Integer id;
